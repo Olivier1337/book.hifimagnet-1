@@ -50,7 +50,7 @@ To compute the magnetic field:
 
 [source,sh]
 ----
-B_map --interactive HL-31.d
+B_Map --interactive HL-31.d
 ----
 
 then enter the data for:
